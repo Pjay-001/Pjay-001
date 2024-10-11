@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Pjay-001
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning cyber security
+- 👀 I’m interested in learning 
+- 🌱 I’m currently learning javascript and c++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...he
 - ⚡ Fun fact: ...
 
 <!---
